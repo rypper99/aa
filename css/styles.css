@@ -33,6 +33,11 @@ body {
   /* font-size: inherit; */
   /* font-family: inherit; */ 
 }
+.page-title {
+  color:white;
+  background-color: blue;
+  width: 100%;
+}
 h1 {
   font-weight: bold;
   margin-top: 5px;
@@ -62,11 +67,6 @@ table, th, td {
   width: 100%;
   font-size: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
-}
-.page-title {
-  color:white;
-  background-color: blue;
-  width: 100%;
 }
 .main {
   margin-top: 15px; /* Add a top margin to avoid content overlay */
