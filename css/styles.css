@@ -4,11 +4,11 @@ html {
   font-size: 24px;
 }
 body {
-  /* margin: 5px auto; */
-  margin-top: 8px;
-	margin-bottom: 8px;
-  margin-left: 8px;
-  margin-right: 8px;
+  margin: 5px auto;
+  /* margin-top: 8px; */
+	/* margin-bottom: 8px; */
+  /* margin-left: 8px; */
+  /* margin-right: 8px; */
 
   padding: 5px 5px 5px 5px;
   border: 1px solid black;
@@ -68,6 +68,9 @@ table, th, td {
 }
 .main {
   margin-top: 15px; /* Add a top margin to avoid content overlay */
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
   width: 100%;
   /* font-size: inherit; */
   /* font-family: inherit; */ 
